@@ -1,0 +1,7 @@
+int a = 29
+double b = 26.1
+char c = "Hello"
+
+System.out.Println(a)
+System.out.Println(b)
+System.out.Println(c)
